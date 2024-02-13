@@ -8,3 +8,5 @@ Lab1: [Множественная классификация объектов](h
 - Aрхитектура ResNet
 
 Lab2: [Поиск аномалий](https://github.com/sad-bkt/computer_vision_course/tree/Lab2/Lab2)
+
+Lab3: [Множественная классификация объектов с помощью техники Self-supervised learning](https://github.com/sad-bkt/computer_vision_course/tree/Lab3/Lab3)
